@@ -2,7 +2,7 @@
   "name": "spawn-bot",
   "version": "1.0.0",
   "description": "This is a discord bot",
-  "main": "app\\bot.js",
+  "main": "app//bot.js",
   "dependencies": {
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node app\\bot.js",
+    "start": "node app/bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jim",
